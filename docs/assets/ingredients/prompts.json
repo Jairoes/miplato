@@ -1,0 +1,128 @@
+[
+  {
+    "id": "huevo",
+    "file": "assets/ingredients/huevo.png",
+    "tool": "image_gen.imagegen (built-in)",
+    "transparent_background": true,
+    "prompt": "Use case: product-mockup. Asset type: transparent PNG ingredient cutout for a Peruvian nutrition website and a divided plate builder. Subject: one peeled hard-boiled chicken egg cut into two halves, clean white and a natural firm golden yolk. Photorealistic appetizing food photography, directly overhead 90-degree camera. Only the specified food isolated on genuine transparent alpha background. Entire silhouette visible, centered, occupies about 80% of a square canvas, with generous clear padding on all sides. Consistent soft neutral daylight, natural edible texture, minimal soft contact shadow limited to the silhouette. No plate, bowl, dish, cup, table, environment, utensils, hands, garnishes, herbs, lemon, text, watermark or other ingredients. The food must be directly compositable onto a white plate. Make one ingredient asset only."
+  },
+  {
+    "id": "pollo",
+    "file": "assets/ingredients/pollo.png",
+    "tool": "image_gen.imagegen (built-in)",
+    "transparent_background": true,
+    "prompt": "Use case: product-mockup. Asset type: transparent PNG ingredient cutout for a Peruvian nutrition website and a divided plate builder. Subject: one cooked skinless chicken breast fillet, lightly browned on a dry griddle with subtle grill marks; plain, no sauce. Photorealistic appetizing food photography, directly overhead 90-degree camera. Only the specified food isolated on genuine transparent alpha background. Entire silhouette visible, centered, occupies about 80% of a square canvas, with generous clear padding on all sides. Consistent soft neutral daylight, natural edible texture, minimal soft contact shadow limited to the silhouette. No plate, bowl, dish, cup, table, environment, utensils, hands, garnishes, herbs, lemon, text, watermark or other ingredients. The food must be directly compositable onto a white plate. Make one ingredient asset only."
+  },
+  {
+    "id": "pescado",
+    "file": "assets/ingredients/pescado.png",
+    "tool": "image_gen.imagegen (built-in)",
+    "transparent_background": true,
+    "prompt": "Use case: product-mockup. Asset type: transparent PNG ingredient cutout for a Peruvian nutrition website and a divided plate builder. Subject: one cooked bonito fish fillet with light natural browning from a griddle; boneless, no head or tail, no sauce. Photorealistic appetizing food photography, directly overhead 90-degree camera. Only the specified food isolated on genuine transparent alpha background. Entire silhouette visible, centered, occupies about 80% of a square canvas, with generous clear padding on all sides. Consistent soft neutral daylight, natural edible texture, minimal soft contact shadow limited to the silhouette. No plate, bowl, dish, cup, table, environment, utensils, hands, garnishes, herbs, lemon, text, watermark or other ingredients. The food must be directly compositable onto a white plate. Make one ingredient asset only."
+  },
+  {
+    "id": "lenteja",
+    "file": "assets/ingredients/lenteja.png",
+    "tool": "image_gen.imagegen (built-in)",
+    "transparent_background": true,
+    "prompt": "Use case: product-mockup. Asset type: transparent PNG ingredient cutout for a Peruvian nutrition website and divided plate builder. Subject: a compact natural mound of cooked brown lentils, tender individual lentils visible, fully drained, no soup or liquid and no onions or sauce. Photorealistic appetizing food photography, directly overhead 90-degree camera. Only the specified edible food isolated on genuine transparent alpha background. Entire silhouette visible, centered, occupies 80% of square canvas, with clear padding on all sides. Consistent soft neutral daylight, natural edible textures, subtle soft contact shadow limited to the food silhouette. No plate, bowl, dish, cup, table, environment, utensils, hands, garnish, decorative herbs, text, labels, checkerboard, watermark or other ingredients. Ready to composite directly onto a white plate. Make one ingredient asset only."
+  },
+  {
+    "id": "quinua",
+    "file": "assets/ingredients/quinua.png",
+    "tool": "image_gen.imagegen (built-in)",
+    "transparent_background": true,
+    "prompt": "Use case: product-mockup. Asset type: transparent PNG ingredient cutout for a Peruvian nutrition website and divided plate builder. Subject: a compact loose mound of cooked white Peruvian quinoa, tender fluffy ivory grains with visible translucent germ rings, ready to eat. Photorealistic appetizing food photography, directly overhead 90-degree camera. Only the specified edible food isolated on genuine transparent alpha background. Entire silhouette visible, centered, occupies 80% of square canvas, with clear padding on all sides. Consistent soft neutral daylight, natural edible textures, subtle soft contact shadow limited to the food silhouette. No plate, bowl, dish, cup, table, environment, utensils, hands, garnish, decorative herbs, text, labels, checkerboard, watermark or other ingredients. Ready to composite directly onto a white plate. Make one ingredient asset only."
+  },
+  {
+    "id": "camote",
+    "file": "assets/ingredients/camote.png",
+    "tool": "image_gen.imagegen (built-in)",
+    "transparent_background": true,
+    "prompt": "Use case: product-mockup. Asset type: transparent PNG ingredient cutout for a Peruvian nutrition website and divided plate builder. Subject: one boiled orange sweet potato cut into three thick round slices, orange tender flesh and thin brown skin. Photorealistic appetizing food photography, directly overhead 90-degree camera. Only the specified edible food isolated on genuine transparent alpha background. Entire silhouette visible, centered, occupies 80% of square canvas, with clear padding on all sides. Consistent soft neutral daylight, natural edible textures, subtle soft contact shadow limited to the food silhouette. No plate, bowl, dish, cup, table, environment, utensils, hands, garnish, decorative herbs, text, labels, checkerboard, watermark or other ingredients. Ready to composite directly onto a white plate. Make one ingredient asset only."
+  },
+  {
+    "id": "papa",
+    "file": "assets/ingredients/papa.png",
+    "tool": "image_gen.imagegen (built-in)",
+    "transparent_background": true,
+    "prompt": "Use case: product-mockup. Asset type: transparent PNG ingredient cutout for a Peruvian nutrition website and divided plate builder. Subject: one peeled boiled yellow Peruvian potato cut into three generous pieces, natural tender pale yellow interior. Photorealistic appetizing food photography, directly overhead 90-degree camera. Only the specified edible food isolated on genuine transparent alpha background. Entire silhouette visible, centered, occupies 80% of square canvas, with clear padding on all sides. Consistent soft neutral daylight, natural edible textures, subtle soft contact shadow limited to the food silhouette. No plate, bowl, dish, cup, table, environment, utensils, hands, garnish, decorative herbs, text, labels, checkerboard, watermark or other ingredients. Ready to composite directly onto a white plate. Make one ingredient asset only."
+  },
+  {
+    "id": "arroz",
+    "file": "assets/ingredients/arroz.png",
+    "tool": "image_gen.imagegen (built-in)",
+    "transparent_background": true,
+    "prompt": "Use case: product-mockup. Asset type: transparent PNG ingredient cutout for a Peruvian nutrition website and divided plate builder. Subject: a small loose mound of fluffy cooked white rice, separate glossy grains, no vegetables or garnish. Photorealistic appetizing food photography, directly overhead 90-degree camera. Only the specified edible food isolated on genuine transparent alpha background. Entire silhouette visible, centered, occupies 80% of square canvas, with clear padding on all sides. Consistent soft neutral daylight, natural edible textures, subtle soft contact shadow limited to the food silhouette. No plate, bowl, dish, cup, table, environment, utensils, hands, garnish, decorative herbs, text, labels, checkerboard, watermark or other ingredients. Ready to composite directly onto a white plate. Make one ingredient asset only."
+  },
+  {
+    "id": "choclo",
+    "file": "assets/ingredients/choclo.png",
+    "tool": "image_gen.imagegen (built-in)",
+    "transparent_background": true,
+    "prompt": "Use case: product-mockup. Asset type: transparent PNG ingredient cutout for a Peruvian nutrition website and divided plate builder. Subject: a small compact pile of cooked Peruvian choclo kernels, large plump ivory-white corn kernels, not small yellow sweetcorn. Photorealistic appetizing food photography, directly overhead 90-degree camera. Only the specified edible food isolated on genuine transparent alpha background. Entire silhouette visible, centered, occupies 80% of square canvas, with clear padding on all sides. Consistent soft neutral daylight, natural edible textures, subtle soft contact shadow limited to the food silhouette. No plate, bowl, dish, cup, table, environment, utensils, hands, garnish, decorative herbs, text, labels, checkerboard, watermark or other ingredients. Ready to composite directly onto a white plate. Make one ingredient asset only."
+  },
+  {
+    "id": "palta",
+    "file": "assets/ingredients/palta.png",
+    "tool": "image_gen.imagegen (built-in)",
+    "transparent_background": true,
+    "prompt": "Use case: product-mockup. Asset type: transparent PNG ingredient cutout for a Peruvian nutrition website and divided plate builder. Subject: four fresh ripe avocado slices grouped in a gentle fan shape, pale yellow-green flesh with darker green outer edges, no pit and no peel. Photorealistic appetizing food photography, directly overhead 90-degree camera. Only the specified edible food isolated on genuine transparent alpha background. Entire silhouette visible, centered, occupies 80% of square canvas, with clear padding on all sides. Consistent soft neutral daylight, natural edible textures, subtle soft contact shadow limited to the food silhouette. No plate, bowl, dish, cup, table, environment, utensils, hands, garnish, decorative herbs, text, labels, checkerboard, watermark or other ingredients. Ready to composite directly onto a white plate. Make one ingredient asset only."
+  },
+  {
+    "id": "ensalada",
+    "file": "assets/ingredients/ensalada.png",
+    "tool": "image_gen.imagegen (built-in)",
+    "transparent_background": true,
+    "prompt": "Use case: product-mockup. Asset type: transparent PNG ingredient cutout for a Peruvian nutrition website and divided plate builder. Subject: a generous compact heap of fresh lettuce leaves with a few tomato pieces and cucumber slices mixed in, plain undressed vegetable salad, no onions and no lemon. Photorealistic appetizing food photography, directly overhead 90-degree camera. Only the specified edible food isolated on genuine transparent alpha background. Entire silhouette visible, centered, occupies 80% of square canvas, with clear padding on all sides. Consistent soft neutral daylight, natural edible textures, subtle soft contact shadow limited to the food silhouette. No plate, bowl, dish, cup, table, environment, utensils, hands, garnish, decorative herbs, text, labels, checkerboard, watermark or other ingredients. Ready to composite directly onto a white plate. Make one ingredient asset only."
+  },
+  {
+    "id": "brocoli",
+    "file": "assets/ingredients/brocoli.png",
+    "tool": "image_gen.imagegen (built-in)",
+    "transparent_background": true,
+    "prompt": "Use case: product-mockup. Asset type: transparent PNG ingredient cutout for a Peruvian nutrition website and divided plate builder. Subject: five plain steamed broccoli florets clustered together as a single serving, fresh vivid natural green, no dressing or sauce. Photorealistic appetizing food photography, directly overhead 90-degree camera. Only the specified edible food isolated on genuine transparent alpha background. Entire silhouette visible, centered, occupies 80% of square canvas, with clear padding on all sides. Consistent soft neutral daylight, natural edible textures, subtle soft contact shadow limited to the food silhouette. No plate, bowl, dish, cup, table, environment, utensils, hands, garnish, decorative herbs, text, labels, checkerboard, watermark or other ingredients. Ready to composite directly onto a white plate. Make one ingredient asset only."
+  },
+  {
+    "id": "zanahoria",
+    "file": "assets/ingredients/zanahoria.png",
+    "tool": "image_gen.imagegen (built-in)",
+    "transparent_background": true,
+    "prompt": "Use case: product-mockup. Asset type: transparent PNG ingredient cutout for a Peruvian nutrition website and divided plate builder. Subject: a compact small pile of plain cooked carrot round slices, soft natural orange, no dressing or garnish. Photorealistic appetizing food photography, directly overhead 90-degree camera. Only the specified edible food isolated on genuine transparent alpha background. Entire silhouette visible, centered, occupies 80% of square canvas, with clear padding on all sides. Consistent soft neutral daylight, natural edible textures, subtle soft contact shadow limited to the food silhouette. No plate, bowl, dish, cup, table, environment, utensils, hands, garnish, decorative herbs, text, labels, checkerboard, watermark or other ingredients. Ready to composite directly onto a white plate. Make one ingredient asset only."
+  },
+  {
+    "id": "aceite",
+    "file": "assets/ingredients/aceite.png",
+    "tool": "image_gen.imagegen (built-in)",
+    "transparent_background": true,
+    "prompt": "Use case: product-mockup. Asset type: transparent PNG ingredient cutout for a Peruvian nutrition website and divided plate builder. Subject: a single small glossy drop of golden extra virgin olive oil seen straight from above, oval natural liquid shape, no container, no bottle, no spoon, no olives. Photorealistic appetizing food photography, directly overhead 90-degree camera. Only the specified edible food isolated on genuine transparent alpha background. Entire silhouette visible, centered, occupies 80% of square canvas, with clear padding on all sides. Consistent soft neutral daylight, natural edible textures, subtle soft contact shadow limited to the food silhouette. No plate, bowl, dish, cup, table, environment, utensils, hands, garnish, decorative herbs, text, labels, checkerboard, watermark or other ingredients. Ready to composite directly onto a white plate. Make one ingredient asset only."
+  },
+  {
+    "id": "mani",
+    "file": "assets/ingredients/mani.png",
+    "tool": "image_gen.imagegen (built-in)",
+    "transparent_background": true,
+    "prompt": "Use case: product-mockup. Asset type: transparent PNG ingredient cutout for a Peruvian nutrition website and divided plate builder. Subject: a small compact handful of peeled dry-roasted peanuts, whole kernels and halves with golden tan texture, no shells and no salt crystals. Photorealistic appetizing food photography, directly overhead 90-degree camera. Only the specified edible food isolated on genuine transparent alpha background. Entire silhouette visible, centered, occupies 80% of square canvas, with clear padding on all sides. Consistent soft neutral daylight, natural edible textures, subtle soft contact shadow limited to the food silhouette. No plate, bowl, dish, cup, table, environment, utensils, hands, garnish, decorative herbs, text, labels, checkerboard, watermark or other ingredients. Ready to composite directly onto a white plate. Make one ingredient asset only."
+  },
+  {
+    "id": "papaya",
+    "file": "assets/ingredients/papaya.png",
+    "tool": "image_gen.imagegen (built-in)",
+    "transparent_background": true,
+    "prompt": "Use case: product-mockup. Asset type: transparent PNG ingredient cutout for a Peruvian nutrition website and divided plate builder. Subject: a compact small pile of ripe fresh orange papaya cubes, no peel and no seeds. Photorealistic appetizing food photography, directly overhead 90-degree camera. Only the specified edible food isolated on genuine transparent alpha background. Entire silhouette visible, centered, occupies 80% of square canvas, with clear padding on all sides. Consistent soft neutral daylight, natural edible textures, subtle soft contact shadow limited to the food silhouette. No plate, bowl, dish, cup, table, environment, utensils, hands, garnish, decorative herbs, text, labels, checkerboard, watermark or other ingredients. Ready to composite directly onto a white plate. Make one ingredient asset only."
+  },
+  {
+    "id": "mandarina",
+    "file": "assets/ingredients/mandarina.png",
+    "tool": "image_gen.imagegen (built-in)",
+    "transparent_background": true,
+    "prompt": "Use case: product-mockup. Asset type: transparent PNG ingredient cutout for a Peruvian nutrition website and divided plate builder. Subject: one peeled mandarin separated into six bright orange juicy segments, clustered in a loose circular arrangement, no peel and no leaves. Photorealistic appetizing food photography, directly overhead 90-degree camera. Only the specified edible food isolated on genuine transparent alpha background. Entire silhouette visible, centered, occupies 80% of square canvas, with clear padding on all sides. Consistent soft neutral daylight, natural edible textures, subtle soft contact shadow limited to the food silhouette. No plate, bowl, dish, cup, table, environment, utensils, hands, garnish, decorative herbs, text, labels, checkerboard, watermark or other ingredients. Ready to composite directly onto a white plate. Make one ingredient asset only."
+  },
+  {
+    "id": "platano",
+    "file": "assets/ingredients/platano.png",
+    "tool": "image_gen.imagegen (built-in)",
+    "transparent_background": true,
+    "prompt": "Use case: product-mockup. Asset type: transparent PNG ingredient cutout for a Peruvian nutrition website and divided plate builder. Subject: one peeled ripe small banana cut into five thick rounds loosely clustered, creamy pale yellow flesh, no peel. Photorealistic appetizing food photography, directly overhead 90-degree camera. Only the specified edible food isolated on genuine transparent alpha background. Entire silhouette visible, centered, occupies 80% of square canvas, with clear padding on all sides. Consistent soft neutral daylight, natural edible textures, subtle soft contact shadow limited to the food silhouette. No plate, bowl, dish, cup, table, environment, utensils, hands, garnish, decorative herbs, text, labels, checkerboard, watermark or other ingredients. Ready to composite directly onto a white plate. Make one ingredient asset only."
+  }
+]

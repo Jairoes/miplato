@@ -1,0 +1,164 @@
+{
+  "pollo": {
+    "src": "assets/foods/pollo.jpg",
+    "title": "File:Grilled chicken breast, Santo Domingo, La Palma.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Grilled_chicken_breast,_Santo_Domingo,_La_Palma.jpg",
+    "author": "Gerda Arendt",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "note": "Foto referencial, encuadrada por la interfaz."
+  },
+  "pescado": {
+    "src": "assets/foods/pescado.jpg",
+    "title": "File:Grilled fish, Charco Azul.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Grilled_fish,_Charco_Azul.jpg",
+    "author": "Gerda Arendt",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "note": "Foto referencial, encuadrada por la interfaz."
+  },
+  "huevo": {
+    "src": "assets/foods/huevo.jpg",
+    "title": "File:Boiled Egg - Crossection.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Boiled_Egg_-_Crossection.jpg",
+    "author": "Ramesh NG",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "note": "Foto referencial, encuadrada por la interfaz."
+  },
+  "lenteja": {
+    "src": "assets/foods/lenteja.jpg",
+    "title": "File:Liat Portal for Foodie Disorder - Cooked Lentils with Caramelized Onions.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Liat_Portal_for_Foodie_Disorder_-_Cooked_Lentils_with_Caramelized_Onions.jpg",
+    "author": "HaJunkiyada",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "note": "Foto referencial, encuadrada por la interfaz."
+  },
+  "arroz": {
+    "src": "assets/foods/arroz.jpg",
+    "title": "File:Bap (cooked rice).jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Bap_(cooked_rice).jpg",
+    "author": "rozh3",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+    "note": "Foto referencial, encuadrada por la interfaz."
+  },
+  "quinua": {
+    "src": "assets/foods/quinua.jpg",
+    "title": "File:Bolivian tricolor quinoa (2).jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Bolivian_tricolor_quinoa_(2).jpg",
+    "author": "Fumikas Sagisavas",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "note": "Foto referencial, encuadrada por la interfaz."
+  },
+  "papa": {
+    "src": "assets/foods/papa.jpg",
+    "title": "File:Boiled, floury potatoes (5299865427).jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Boiled,_floury_potatoes_(5299865427).jpg",
+    "author": "benjgibbs",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "note": "Foto referencial, encuadrada por la interfaz."
+  },
+  "camote": {
+    "src": "assets/foods/camote.jpg",
+    "title": "File:Ipomoea batatas 006.JPG",
+    "source": "https://commons.wikimedia.org/wiki/File:Ipomoea_batatas_006.JPG",
+    "author": "Llez",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "note": "Foto referencial, encuadrada por la interfaz."
+  },
+  "choclo": {
+    "src": "assets/foods/choclo.jpg",
+    "title": "File:Pot of Steamed Sweet Corn Kernels at Davao City.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Pot_of_Steamed_Sweet_Corn_Kernels_at_Davao_City.jpg",
+    "author": "PAULIX04",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "note": "Foto referencial, encuadrada por la interfaz."
+  },
+  "ensalada": {
+    "src": "assets/foods/ensalada.jpg",
+    "title": "File:Garden salad - San Francisco.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Garden_salad_-_San_Francisco.jpg",
+    "author": "Daderot",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "note": "Foto referencial, encuadrada por la interfaz."
+  },
+  "brocoli": {
+    "src": "assets/foods/brocoli.jpg",
+    "title": "File:Steamed broccoli with tahini dressing (3851217670).jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Steamed_broccoli_with_tahini_dressing_(3851217670).jpg",
+    "author": "Vegan Feast Catering",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "note": "Foto referencial, encuadrada por la interfaz."
+  },
+  "zanahoria": {
+    "src": "assets/foods/zanahoria.jpg",
+    "title": "File:Vegetable-Carrot-Bundle-wStalks.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Vegetable-Carrot-Bundle-wStalks.jpg",
+    "author": "Evan-Amos",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "note": "Foto referencial, encuadrada por la interfaz."
+  },
+  "palta": {
+    "src": "assets/foods/palta.jpg",
+    "title": "File:Half an avocado.JPG",
+    "source": "https://commons.wikimedia.org/wiki/File:Half_an_avocado.JPG",
+    "author": "Jennifertl11",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "note": "Foto referencial, encuadrada por la interfaz."
+  },
+  "aceite": {
+    "src": "assets/foods/aceite.jpg",
+    "title": "File:Bottle of olive oil.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Bottle_of_olive_oil.jpg",
+    "author": "margenauer from Pixabay",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "note": "Foto referencial, encuadrada por la interfaz."
+  },
+  "mani": {
+    "src": "assets/foods/mani.jpg",
+    "title": "File:Roasted peanuts.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Roasted_peanuts.jpg",
+    "author": "Vis M",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "note": "Foto referencial, encuadrada por la interfaz."
+  },
+  "papaya": {
+    "src": "assets/foods/papaya.jpg",
+    "title": "File:Papaya cut half.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Papaya_cut_half.jpg",
+    "author": "Maksym Kozlenko",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "note": "Foto referencial, encuadrada por la interfaz."
+  },
+  "platano": {
+    "src": "assets/foods/platano.jpg",
+    "title": "File:Bananavarieties.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Bananavarieties.jpg",
+    "author": "TimothyPilgrim",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "note": "Foto referencial, encuadrada por la interfaz."
+  },
+  "mandarina": {
+    "src": "assets/foods/mandarina.jpg",
+    "title": "File:Mandarin fruit on white background.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Mandarin_fruit_on_white_background.jpg",
+    "author": "Paolo Neo",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "note": "Foto referencial, encuadrada por la interfaz."
+  }
+}
